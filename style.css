@@ -16,6 +16,19 @@ body{
     color: white;
 }
 
+.register{
+    margin-right: 50px;
+    border: blue;
+    padding: 10px 10px 10px 10px ;
+    background-color: blue;
+}
+.register a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
 
   
   /* The button used to open the sidebar */
